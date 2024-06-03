@@ -1,0 +1,1 @@
+RailEase is a simple railway ticketing system developed using Java Servlets, MySQL, HTML, and CSS. This project was created for the final requirements of our Application Development course and was a collaboration with Juan Carlos Aguilar and Micah Tayco.
